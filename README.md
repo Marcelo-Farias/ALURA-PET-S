@@ -18,6 +18,7 @@ O dashboard deveria expor:
 - a quantidade de produtos vendidos;
 - e as imagens de cada produto.
 
-Todos os itens acima compõem o dashboard criado.
+Todos os itens acima compõem o dashboard criado. E, também, foi feita uma versão do projeto para dispositivos móveis.
 
-Link para o dashboad: https://app.powerbi.com/view?r=eyJrIjoiMzliNDI3YWUtMGNhYS00NzBiLWIzYjktNzdkZTc5NWU5OTQwIiwidCI6IjczMTZhYjBhLWEzM2QtNGQ5ZC04MGU4LWE4NGNmOWNjYmQzOSJ9&pageName=ReportSection
+Link para o dashboad:
+https://app.powerbi.com/view?r=eyJrIjoiMzliNDI3YWUtMGNhYS00NzBiLWIzYjktNzdkZTc5NWU5OTQwIiwidCI6IjczMTZhYjBhLWEzM2QtNGQ5ZC04MGU4LWE4NGNmOWNjYmQzOSJ9&pageName=ReportSection
