@@ -1,4 +1,4 @@
-# ALURA-PET-S: Projeto no Power BI.
+# ALURA-PET'S: Projeto no Power BI.
 
 Autor: Marcelo Farias  - Data: 07/02/2022
 
